@@ -1,0 +1,8 @@
+﻿1. Bakanov K. K., Ardabevskaia S. N., Bezlepkina K. A., Klokova K. S., Krupnin A. E., Buzin A. I., Khanin D. A., Kostrov S. A., Bakirov A. V., Drozdov F. V., Chvalun S. N., Muzafarov A. M., Zou J., Kramarenko E. Y., Milenin S. A. // React. Funct. Polym. ‒ 2024. ‒ T. 202. ‒ C. 106005.
+2. Berendsen H. J. C., Spoel D. v. d., Drunen R. v. // Comput. Phys. Commun. ‒ 1995. ‒ T. 91. ‒ C. 43–56.
+3. Abraham M. J., Murtola T., Schulz R., Páll S., Smith J. C., Hess B., Lindahl E. // SoftwareX. ‒ 2015. ‒ T. 1. ‒ C. 19–25.
+4. Malde A. K., Zuo L., Breeze M., Stroet M., Poger D., Nair P. C., Oostenbrink C., Mark A. E. // J. Chem. Theory Comput. ‒ 2011. ‒ T. 7. ‒ C. 4026–4037.
+5. Stroet M., Caron B., Visscher K. M., Geerke D. P., Malde A. K., Mark A. E. // J. Chem. Theory Comput. ‒ 2018. ‒ T. 14. ‒ C. 5834–5845.
+6. Koziara K. B., Stroet M., Malde A. K., Mark A. E. // J. Comput.-Aided Mol. Des. ‒ 2014. ‒ T. 28. ‒ C. 221–233.
+7. Schmid N., Eichenberger A. P., Choutko A., Riniker S., Winger M., Mark A. E., Gunsteren W. F. v. // Eur. Biophys. J. ‒ 2011. ‒ T. 40. ‒ C. 843–856.
+8. Bussi G., Donadio D., Parrinello M. // J. Chem. Phys. ‒ 2007. ‒ T. 126. ‒ C. 014101.

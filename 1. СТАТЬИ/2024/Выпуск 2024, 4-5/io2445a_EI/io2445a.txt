@@ -1,0 +1,29 @@
+﻿1. Copéret C., Allouche F., Chan K. W., Conley M. P., Delley M. F., Fedorov A., Moroz I. B., Mougel V., Pucino M., Searles K., Yamamoto K., Zhizhko P. A. // Angew. Chem., Int. Ed. ‒ 2018. ‒ T. 57. ‒ C. 6398–6440.
+2. Copéret C., Comas-Vives A., Conley M. P., Estes D. P., Fedorov A., Mougel V., Nagae H., Núñez-Zarur F., Zhizhko P. A. // Chem. Rev. ‒ 2016. ‒ T. 116. ‒ C. 323–421.
+3. Samantaray M. K., D'Elia V., Pump E., Falivene L., Harb M., Chikh S. O., Cavallo L., Basset J.-M. // Chem. Rev. ‒ 2020. ‒ T. 120. ‒ C. 734–813.
+4. Liang Y., Anwander R. // Dalton Trans. ‒ 2013. ‒ T. 42. ‒ C. 12521–12545.
+5. Marks T. J. // Acc. Chem. Res. ‒ 1992. ‒ T. 25. ‒ C. 57–65.
+6. Yermakov Y. I. // Catal. Rev.: Sci. Eng. ‒ 1976. ‒ T. 13. ‒ C. 77–120.
+7. Ballard D. G. H. // J. Polym. Sci., Polym. Chem. Ed. ‒ 1975. ‒ T. 13. ‒ C. 2191–2212.
+8. Zhizhko P. A., Bushkov N. S., Pichugov A. V., Zarubin D. N. // Coord. Chem. Rev. ‒ 2021. ‒ T. 448. ‒ C. 214112.
+9. Zhizhko P. A., Pichugov A. V., Bushkov N. S., Allouche F., Zhizhin A. A., Zarubin D. N., Ustynyuk N. A. // Angew. Chem., Int. Ed. ‒ 2018. ‒ T. 57. ‒ C. 10879–10882.
+10. Zhizhko P. A., Pichugov A. V., Bushkov N. S., Rumyantsev A. V., Utegenov K. I., Talanova V. N., Strelkova T. V., Lebedev D., Mance D., Zarubin D. N. // Organometallics. ‒ 2020. ‒ T. 39. ‒ C. 1014–1023.
+11. Pichugov A. V., Rumyantsev A. V., Bushkov N. S., Zhizhin A. A., Aleshin D. Y., Talanova V. N., Takazova R. U., Trummer D., Mance D., Zhizhko P. A., Zarubin D. N. // Inorg. Chem. Front. ‒ 2023. ‒ T. 10. ‒ C. 5357–5370.
+12. Zhizhko P. A., Zhizhin A. A., Belyakova O. A., Zubavichus Y. V., Kolyagin Y. G., Zarubin D. N., Ustynyuk N. A. // Organometallics. ‒ 2013. ‒ T. 32. ‒ C. 3611–3617.
+13. Davies T. Q., Willis M. C. // Chem. Eur. J. ‒ 2021. ‒ T. 27. ‒ C. 8918–8927.
+14. Rufanov K. A., Kipke J., Sundermeyer J. // Dalton Trans. ‒ 2011. ‒ T. 40. ‒ C. 1990–1997.
+15. Bushkov N. S., Rumyantsev A. V., Zhizhin A. A., Strelkova T. V., Novikov R. A., Gutsul E. I., Takazova R. U., Kitaeva D. K., Ustynyuk N. A., Zhizhko P. A., Zarubin D. N. // ChemPlusChem. ‒ 2024. ‒ T. 89. ‒ C. e202400029.
+16. Zhizhko P. A., Zhizhin A. A., Zarubin D. N., Ustynyuk N. A. // Mendeleev Commun. ‒ 2012. ‒ T. 22. ‒ C. 64–66.
+17. Radius U., Sundermeyer J., Pritzkow H. // Chem. Ber. ‒ 1994. ‒ T. 127. ‒ C. 1827–1835.
+18. Bini F., Rosier C., Saint-Arroman R. P., Neumann E., Dablemont C., Mallmann A. d., Lefebvre F., Niccolai G. P., Basset J.-M., Crocker M., Buijink J.-K. // Organometallics. ‒ 2006. ‒ T. 25. ‒ C. 3743–3760.
+19. Saint-Arroman R. P., Chabanas M., Baudouin A., Copéret C., Basset J.-M., Lesage A., Emsley L. // J. Am. Chem. Soc. ‒ 2001. ‒ T. 123. ‒ C. 3820–3821.
+20. Dufaud V., Niccolai G. P., Thivolle-Cazat J., Basset J.-M. // J. Am. Chem. Soc. ‒ 1995. ‒ T. 117. ‒ C. 4288–4294.
+21. Avenier P., Taoufik M., Lesage A., Solans-Monfort X., Baudouin A., Mallmann A. D., Veyre L., Basset J.-M., Eisenstein O., Emsley L., Quadrelli E. A. // Science. ‒ 2007. ‒ T. 317. ‒ C. 1056–1060.
+22. Avenier P., Lesage A., Taoufik M., Baudouin A., Mallmann A. D., Fiddy S., Vautier M., Veyre L., Basset J.-M., Emsley L., Quadrelli E. A. // J. Am. Chem. Soc. ‒ 2007. ‒ T. 129. ‒ C. 176–186.
+23. Jia H.-P., Gouré E., Solans-Monfort X., Castelbou J. L., Chow C., Taoufik M., Eisenstein O., Quadrelli E. A. // Inorg. Chem. ‒ 2015. ‒ T. 54. ‒ C. 11648–11659.
+24. Barman S., Merle N., Minenkov Y., Mallmann A. D., Samantaray M. K., Quéméner F. L., Szeto K. C., Abou-Hamad E., Cavallo L., Taoufik M., Basset J.-M. // Organometallics. ‒ 2017. ‒ T. 36. ‒ C. 1550–1556.
+25. Fostvedt J. I., Mendoza J., Lopez-Flores S., Alcantar D., Bergman R. G., Arnold J. // Chem. Sci. ‒ 2022. ‒ T. 13. ‒ C. 8224–8242.
+26. Fostvedt J. I., Grant L. N., Kriegel B. M., Obenhuber A. H., Lohrey T. D., Bergman R. G., Arnold J. // Chem. Sci. ‒ 2020. ‒ T. 11. ‒ C. 11613–11632.
+27. Tomson N. C., Arnold J., Bergman R. G. // Organometallics. ‒ 2010. ‒ T. 29. ‒ C. 2926–2942.
+28. Chao Y. W., Rodgers P. M., Wigley D. E., Alexander S. J., Rheingold A. L. // J. Am. Chem. Soc. ‒ 1991. ‒ T. 113. ‒ C. 6326–6328.
+29. Lwin S., Li Y., Frenkel A. I., Wachs I. E. // ACS Catal. ‒ 2016. ‒ T. 6. ‒ C. 3061–3071.

@@ -1,0 +1,27 @@
+﻿1. Liu T., Liu G. // Nat. Commun. ‒ 2020. ‒ T. 11. ‒ C. 4984.
+2. Mohamed M. G., El-Mahdy A. F. M., Kotp M. G., Kuo S.-W. // Mater. Adv. ‒ 2022. ‒ T. 3. ‒ C. 707–733.
+3. Zhang T., Xing G., Chen W., Chen L. // Mater. Chem. Front. ‒ 2020. ‒ T. 4. ‒ C. 332–353.
+4. Song W., Zhang Y., Tran C. H., Choi H. K., Yu D.-G., Kim I. // Prog. Polym. Sci. ‒ 2023. ‒ T. 142. ‒ C. 101691.
+5. Tian Y., Zhu G. // Chem. Rev. ‒ 2020. ‒ T. 120. ‒ C. 8934–8986.
+6. Lee J.-S. M., Cooper A. I. // Chem. Rev. ‒ 2020. ‒ T. 120. ‒ C. 2171–2214.
+7. Zhang W., Zuo H., Cheng Z., Shi Y., Guo Z., Meng N., Thomas A., Liao Y. // Adv. Mater. ‒ 2022. ‒ T. 34. ‒ C. 2104952.
+8. Liao L., Li M., Yin Y., Chen J., Zhong Q., Du R., Liu S., He Y., Fu W., Zeng F. // ACS Omega. ‒ 2023. ‒ T. 8. ‒ C. 4527–4542.
+9. Liu M., Guo L., Jin S., Tan B. // J. Mater. Chem. A. ‒ 2019. ‒ T. 7. ‒ C. 5153–5172.
+10. Tan L., Tan B. // Chem. Soc. Rev. ‒ 2017. ‒ T. 46. ‒ C. 3322–3356.
+11. Luo Y., Mei Y., Xu Y., Huang K. // Nanomaterials. ‒ 2023. ‒ T. 13. ‒ C. 2514.
+12. Safaei M., Foroughi M. M., Ebrahimpoor N., Jahani S., Omidi A., Khatami M. // TrAC, Trends Anal. Chem. ‒ 2019. ‒ T. 118. ‒ C. 401–425.
+13. Li Y., Wen G., Li J., Li Q., Zhang H., Tao B., Zhang J. // Chem. Commun. ‒ 2022. ‒ T. 58. ‒ C. 11488–11506.
+14. Geng K., He T., Liu R., Dalapati S., Tan K. T., Li Z., Tao S., Gong Y., Jiang Q., Jiang D. // Chem. Rev. ‒ 2020. ‒ T. 120. ‒ C. 8814–8933.
+15. Martín-Illán J. Á., Rodríguez-San-Miguel D., Zamora F. // Coord. Chem. Rev. ‒ 2023. ‒ T. 495. ‒ C. 215342.
+16. McKeown N. B. // Polymer. ‒ 2020. ‒ T. 202. ‒ C. 122736.
+17. Topuz F., Abdellah M. H., Budd P. M., Abdulhamid M. A. // Polym. Rev. ‒ 2024. ‒ T. 64. ‒ C. 251–305.
+18. Yu S., Ng F. L., Ma K. C. C., Mon A. A., Ng F. L., Ng Y. Y. // J. Appl. Polym. Sci. ‒ 2013. ‒ T. 127. ‒ C. 2641–2647.
+19. Safaei F., Khalili S., Khorasani S. N., Ghasemi-Mobarakeh L., Neisiany R. E. // J. Polym. Sci. Eng. ‒ 2018. ‒ T. 1. ‒ C. 1076.
+20. Lee D. H., Jo M. J., Han S. W., Yu S., Park H. // Polymer. ‒ 2020. ‒ T. 205. ‒ C. 122879.
+21. Mollart C., Trewin A. // Phys. Chem. Chem. Phys. ‒ 2020. ‒ T. 22. ‒ C. 21642–21645.
+22. Mollart C., Trewin A. // J. Mater. Chem. A. ‒ 2024. ‒ T. 12. ‒ C. 4159–4168.
+23. Chen J., Yan W., Townsend E. J., Feng J., Pan L., Hernandez V. D. A., Faul C. F. J. // Angew. Chem., Int. Ed. ‒ 2019. ‒ T. 58. ‒ C. 11715–11719.
+24. Chen J., Qiu T., Yan W., Faul C. F. J. // J. Mater. Chem. A. ‒ 2020. ‒ T. 8. ‒ C. 22657–22665.
+25. Sorokina S. A., Kuchkina N. V., Mikhalchenko A. V., Krasnova I. Y., Khanin D. A., Skupov K. M., Shifrina Z. B. // Polymers. ‒ 2023. ‒ T. 15. ‒ C. 2060.
+26. Minelli M., Paul D. R., Sarti G. C. // J. Membr. Sci. ‒ 2017. ‒ T. 540. ‒ C. 229–242.
+27. Huang G., Yang L., Ma X., Jiang J., Yu S.-H., Jiang H.-L. // Chem. Eur. J. ‒ 2016. ‒ T. 22. ‒ C. 3470–3477.

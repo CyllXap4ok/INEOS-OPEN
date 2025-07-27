@@ -1,0 +1,24 @@
+﻿1. Ma Y.-L., Wainright J. S., Litt M. H., Savinell R. F. // J. Electrochem. Soc. ‒ 2004. ‒ T. 151. ‒ C. A8.
+2. Sinitsyn V. V., Privalov A. I., Lips O., Baranov A. I., Kruk D., Fujara F. // Ionics. ‒ 2008. ‒ T. 14. ‒ C. 223–226.
+3. Haile S. M., Chisholm C. R. I., Sasaki K., Boysen D. A., Uda T. // Faraday Discuss. ‒ 2007. ‒ T. 134. ‒ C. 17–39.
+4. Nikiforov A. V., Berg R. W., Bjerrum N. J. // Ionics. ‒ 2018. ‒ T. 24. ‒ C. 2761–2782.
+5. Afshari E., Mosharaf-Dehkordi M., Rajabian H. // Energy. ‒ 2017. ‒ T. 118. ‒ C. 705–715.
+6. Stenina I. A., Safronova E. Y., Levchenko A. V., Dobrovolsky Y. A., Yaroslavtsev A. B. // Therm. Eng. ‒ 2016. ‒ T. 63. ‒ C. 385–398.
+7. High Temperature Polymer Electrolyte Membrane Fuel Cells. Approaches, Status, and Perspectives. / Li Q., Aili D., Hjuler H. A., Jensen J. O. ‒ Cham: Springer, 2016. 
+8. Araya S. S., Zhou F., Liso V., Sahlin S. L., Vang J. R., Thomas S., Gao X., Jeppesen C., Kær S. K. // Int. J. Hydrogen Energy. ‒ 2016. ‒ T. 41. ‒ C. 21310–21344.
+9. Zeis R. // Beilstein J. Nanotechnol. ‒ 2015. ‒ T. 6. ‒ C. 68–83.
+10. Escorihuela J., Olvera-Mancilla J., Alexandrova L., Castillo L. F. d., Compañ V. // Polymers. ‒ 2020. ‒ T. 12. ‒ C. 1861.
+11. Moorthy S., Sivasubramanian G., Kannaiyan D., Deivanayagam P. // Int. J. Hydrogen Energy. ‒ 2023. ‒ T. 48. ‒ C. 28103–28118.
+12. Zhou Z., Zholobko O., Wu X.-F., Aulich T., Thakare J., Hurley J. // Energies. ‒ 2021. ‒ T. 14. ‒ C. 135.
+13. Rosli R. E., Sulong A. B., Daud W. R. W., Zulkifley M. A., Husaini T., Rosli M. I., Majlan E. H., Haque M. A. // Int. J. Hydrogen Energy. ‒ 2017. ‒ T. 42. ‒ C. 9293–9314.
+14. Li Q., He R., Jensen J. O., Bjerrum N. J. // Fuel Cells. ‒ 2004. ‒ T. 4. ‒ C. 147–159.
+15. Rath R., Kumar P., Unnikrishnan L., Mohanty S., Nayak S. K. // Polym. Rev. ‒ 2020. ‒ T. 60. ‒ C. 267–317.
+16. Qu E., Hao X., Xiao M., Han D., Huang S., Huang Z., Wang S., Meng Y. // J. Power Sources. ‒ 2022. ‒ T. 533. ‒ C. 231386.
+17. Chaudhari H. D., Illathvalappil R., Kurungot S., Kharul U. K. // J. Membr. Sci. ‒ 2018. ‒ T. 564. ‒ C. 211–217.
+18. Пономарев И. И., Рыбкин Ю. Ю., Волкова Ю. А., Разоренов Д. Ю., Скупов К. М., Пономарев И. И., Сеньчукова А. С., Лезов А. А., Цветков Н. В. // Известия Академии Наук, Серия Химическая. ‒ 2020. ‒ T. 12. ‒ C. 2320.
+19. Bagryantseva I. N., Ponomareva V. G., Lazareva N. P. // Solid State Ion. ‒ 2019. ‒ T. 329. ‒ C. 61–66.
+20. Bagryantseva I. N., Gaydamaka A. A., Ponomareva V. G. // Ionics. ‒ 2020. ‒ T. 26. ‒ C. 1813–1818.
+21. Li Y., Hu J., Li H., Chen L. // J. Electrochem. Soc. ‒ 2022. ‒ T. 169. ‒ C. 024505.
+22. Bagryantseva I. N., Ponomareva V. G., Khusnutdinov V. R. // J. Mater. Sci. ‒ 2021. ‒ T. 56. ‒ C. 14196–14206.
+23. Bagryantseva I., Dormidonova D., Ponomareva V. // MATEC Web Conf. ‒ 2021. ‒ T. 340. ‒ C. 01044.
+24. Schmidt T. J., Baurmeister J. // J. Power Sources. ‒ 2008. ‒ T. 176. ‒ C. 428–434.
